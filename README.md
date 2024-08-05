@@ -8,6 +8,8 @@ This project is a simple HTML and CSS animation depicting a solar system with th
   <img src="https://i.pinimg.com/originals/07/43/d5/0743d571f175ebc1977cbdfc7c5eeced.gif" alt="Solar System Animation">
 </p>
 
+You can view the live demo [here](https://shamshusam.github.io/solar/).
+
 ## Features
 
 - Sun, Earth, Moon, and Mars represented with simple CSS shapes.
