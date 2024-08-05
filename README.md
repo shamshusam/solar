@@ -4,7 +4,9 @@ This project is a simple HTML and CSS animation depicting a solar system with th
 
 ## Demo
 
-![Solar System Animation](demo.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/07/43/d5/0743d571f175ebc1977cbdfc7c5eeced.gif" alt="Solar System Animation">
+</p>
 
 ## Features
 
